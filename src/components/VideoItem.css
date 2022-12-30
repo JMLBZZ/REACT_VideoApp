@@ -1,0 +1,7 @@
+.myVideo-item{
+    cursor:pointer;
+}
+
+.myVideo-item img{
+    max-width: 180px;
+}
